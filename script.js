@@ -1,7 +1,6 @@
 let time = document.getElementById("time");
 let timeZone = document.getElementById("timeZone");
 let schedule = "AM";
-
 let h, m, s, timeFormat;
 
 function todayTime() {
